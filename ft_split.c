@@ -49,7 +49,7 @@ static char	*ft_worddup(const char	*s, char c, int *start)
 	return (word);
 }
 
-static void	ft_freeresult(char **s, int	size)
+static void	ft_freeresult(char **s, int size)
 {
 	int	i;
 
